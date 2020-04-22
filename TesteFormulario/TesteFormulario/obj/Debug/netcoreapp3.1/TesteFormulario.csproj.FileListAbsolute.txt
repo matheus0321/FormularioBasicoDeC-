@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\bin\Debug\netcoreapp3.1\TesteFormulario.exe
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\bin\Debug\netcoreapp3.1\TesteFormulario.deps.json
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\bin\Debug\netcoreapp3.1\TesteFormulario.runtimeconfig.json
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\bin\Debug\netcoreapp3.1\TesteFormulario.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\bin\Debug\netcoreapp3.1\TesteFormulario.dll
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\bin\Debug\netcoreapp3.1\TesteFormulario.pdb
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\obj\Debug\netcoreapp3.1\TesteFormulario.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\obj\Debug\netcoreapp3.1\TesteFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\obj\Debug\netcoreapp3.1\TesteFormulario.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\obj\Debug\netcoreapp3.1\TesteFormulario.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\obj\Debug\netcoreapp3.1\TesteFormulario.dll
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\obj\Debug\netcoreapp3.1\TesteFormulario.pdb
+C:\Users\Matheus\Desktop\C#\TesteFormulario\TesteFormulario\obj\Debug\netcoreapp3.1\TesteFormulario.genruntimeconfig.cache
